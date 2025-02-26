@@ -7,7 +7,7 @@ paper-dialog {
   bottom: 0;
   width: 100%;
   box-shadow: none;
-  overflow: scroll;
+  overflow: auto;
 
   color: var(--exm-drawer-color, var(--md-sys-color-on-surface, black));
   // background-color: var(--exm-drawer-bg-color, var(--mdc-theme-surface, $exm-drawer-bg-color));
